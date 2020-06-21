@@ -1,1 +1,1 @@
-Personal blog which can be accessed at thoughtgeek.com
+Personal blog which can be accessed at thoughtgeek.com[depreciated]
